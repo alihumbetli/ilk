@@ -12,7 +12,7 @@ public class mesele_15 {
         long hasil = 1;
 
         for (int i = 1; i <= n; i++) {
-            hasil *= i; // hasil = hasil * i
+            hasil *= i;
         }
 
         System.out.println(n + "! = " + hasil);
